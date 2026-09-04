@@ -1,0 +1,102 @@
+﻿Product_ID,Product_Name,Category
+P001,Laptop,Electronics
+P002,Desktop Computer,Electronics
+P003,Mobile Phone,Electronics
+P004,Tablet,Electronics
+P005,Monitor,Electronics
+P006,printer,Office Equipment
+P007,Scanner,Office Equipment
+P008,Projector,Electronics
+P009,Keyboard,Accessories
+P010,Mouse,Accessories
+P011,Wireless Mouse,Accessories
+P012,Gaming Mouse,Accessories
+P013,Mechanical Keyboard,Accessories
+P014,Webcam,Accessories
+P015,Headphone,Accessories
+P016,Earphone,Accessories
+P017,Bluetooth Speaker,Electronics
+P018,Route,Networking
+P019,Wi-Fi Extender,Networking
+P020,Network Switch,Networking
+P021,USB Cable,Accessories
+P022,HDMI Cable,Accessories
+P023,Ethernet Cable,Networking
+P024,Pen Drive,Storage
+P025,External Hard Disk,Storage
+P026,SSD 500GB,Storage
+P027,SSD 1TB,Storage
+P028,Momery Card,Storage
+P029,Power Bank,Electronics
+P030,UPS,Electronics
+P031,Power Adopter,Accessories
+P032,Laptop Charger,Accessories
+P033,Mobile Charger,Accessories
+P034,Smart Watch,Electronics
+P035,Fitness Band,Electronics
+P036,Office Chair,Furniture
+P037,Executive Chair,Furniture
+P038,Visitor Chair,Furniture
+P039,Computer Desk,Furniture
+P040,Office Table,Furniture
+P041,Conference Table,Furniture
+P042,Filing Cabinate,Furniture
+P043,Bookshelf,Furniture
+P044,Storage rack,Warehouse
+P045,Pallet,Warehouse
+P046,Plastic Bin,Warehouse
+P047,Storage Box,Warehouse
+P048,Carton Box,packaing
+P049,Bubble Wrap,packaing
+P050,Packing Tape,packaing
+P051,Stretch Film,packaing
+P052,Barcode Scanner,Warehouse
+P053,Barcode Printer,Warehouse
+P054,Label Printer,Warehouse
+P055,Shipping Label,packaing
+P056,Thermal Paper Roll,packaing
+P057,Calculator,Office Supplies
+P058,Stapler,Office Supplies
+P059,Paper Punch,Office Supplies
+P060,File Folder,Office Supplies
+P061,A4 Paper,Office Supplies
+P062,Notebook,Office Supplies
+P063,Pen,Office Supplies
+P064,Marker,Office Supplies
+P065,Whiteboard,Office Supplies
+P066,Whiteboard Maker,Office Supplies
+P067,Printer Toner,Office Supplies
+P068,Printer Cartridge,Office Supplies
+P069,CCTV Camera,Security
+P070,DVR System,Security
+P071,CCTV Monitor,Security
+P072,Access Control System,Security
+P073,Biometric Machine,Security
+P074,Fire Extinguisher,Safety
+P075,Safe Helmet,Safety
+P076,Safety Gloves,Safety
+P077,Safety Shoes,Safety
+P078,Reflective Jacket,Safety
+P079,Hand Trolley,Material Handling
+P080,Platform Trolley,Material Handling
+P081,Hand Pallet Truck,Material Handling
+P082,Forklift,Material Handling
+P083,Conveyor Belt,Material Handling
+P084,Weighing Scale,Warehouse
+P085,Digital Weighing Machine,Warehouse
+P086,Packing Machine,packaing
+P087,Strapping Machine,packaing
+P088,Hand Truck,Material Handling
+P089,Ladder,Warehouse
+P090,Cleaning Machine,Maintenance
+P091,Air Conditioner,Electronics
+P092,Electric Fan,Electronics
+P093,LED Light,Electronics
+P094,Generator,Equipment
+P095,Inverter,Electronics
+P096,Water Dispenser,Office Equipment
+P097,Refrigerator,Electronics
+P098,Microwave Oven,Electronics
+P099,Coffee Machine,Electronics
+P100,First Aid Kit,Safety
+,,

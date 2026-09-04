@@ -1,0 +1,101 @@
+﻿Shipment_ID,Order_ID,Date,Customer_ID,Warehouse_ID,Transport_Mode,Carrier,Origin,Destination,Qty,Freight_Cost,Status
+SHP001,ORD001,2026-01-05,C001,WH001,Road,VRL Logistics,Bengaluru,Bengaluru,5,2500,Delivered
+SHP002,ORD002,2026-01-07,C002,WH006,Road,Blue Dart,Mysuru,Mysuru,8,3200,Delivered
+SHP003,ORD003,2026-01-09,C003,WH009,Road,Delhivery,Dharwad,Dharwad,20,1800,Delivered
+SHP004,ORD004,2026-01-11,C004,WH008,Road,DTDC,Hubballi,Hubballi,25,2000,Delivered
+SHP005,ORD005,2026-01-13,C005,WH010,Road,Ecom Express,Belagavi,Belagavi,6,2800,Delivered
+SHP006,ORD006,2026-01-15,C006,WH011,Road,VRL Logistics,Gadag,Gadag,4,1500,Delivered
+SHP007,ORD007,2026-01-18,C007,WH001,Road,Delhivery,Bengaluru,Pune,12,6500,Delivered
+SHP008,ORD008,2026-01-20,C008,WH031,Air,Blue Dart,Hyderabad,Hyderabad,10,5000,Delivered
+SHP009,ORD009,2026-01-22,C009,WH037,Road,TCI Express,Chennai,Chennai,8,3800,Pending
+SHP010,ORD010,2026-01-25,C010,WH021,Road,VRL Logistics,Mumbai,Mumbai,5,2900,Delivered
+SHP011,ORD011,2026-01-28,C011,WH002,Road,Delhivery,Bengaluru,Bengaluru,10,2200,Delivered
+SHP012,ORD012,2026-01-30,C012,WH006,Road,DTDC,Mysuru,Mysuru,7,1900,Delivered
+SHP013,ORD013,2026-02-02,C013,WH014,Road,Ecom Express,Shivamogga,Shivamogga,15,2300,Delivered
+SHP014,ORD014,2026-02-04,C014,WH015,Road,VRL Logistics,Mangaluru,Mangaluru,12,2700,Pending
+SHP015,ORD015,2026-02-06,C015,WH001,Road,Delhivery,Bengaluru,Bengaluru,10,2100,Delivered
+SHP016,ORD016,2026-02-09,C016,WH008,Road,TCI Express,Hubballi,Hubballi,20,2600,Delivered
+SHP017,ORD017,2026-02-11,C017,WH010,Road,VRL Logistics,Belagavi,Belagavi,8,2500,Delivered
+SHP018,ORD018,2026-02-13,C018,WH009,Road,DTDC,Dharwad,Dharwad,10,1800,Delivered
+SHP019,ORD019,2026-02-16,C019,WH001,Air,Blue Dart,Bengaluru,Bengaluru,6,4500,Pending
+SHP020,ORD020,2026-02-18,C020,WH006,Road,Delhivery,Mysuru,Mysuru,7,2100,Delivered
+SHP021,ORD021,2026-02-21,C021,WH001,Road,VRL Logistics,Bengaluru,Bengaluru,30,2400,Delivered
+SHP022,ORD022,2026-02-23,C022,WH016,Road,TCI Express,Tumakuru,Tumakuru,25,2200,Delivered
+SHP023,ORD023,2026-02-25,C023,WH012,Road,DTDC,Davanagere,Davanagere,20,2000,Delivered
+SHP024,ORD024,2026-02-27,C024,WH013,Road,Ecom Express,Ballari,Ballari,15,2700,Pending
+SHP025,ORD025,2026-03-02,C025,WH001,Road,VRL Logistics,Bengaluru,Bengaluru,6,2300,Delivered
+SHP026,ORD026,2026-03-04,C026,WH011,Road,Delhivery,Gadag,Gadag,8,1600,Delivered
+SHP027,ORD027,2026-03-06,C027,WH017,Road,TCI Express,Haveri,Haveri,5,1800,Delivered
+SHP028,ORD028,2026-03-09,C028,WH008,Road,VRL Logistics,Hubballi,Hubballi,20,2100,Delivered
+SHP029,ORD029,2026-03-11,C029,WH001,Air,Blue Dart,Bengaluru,Bengaluru,12,4200,Pending
+SHP030,ORD030,2026-03-13,C030,WH006,Road,Delhivery,Mysuru,Mysuru,8,2000,Delivered
+SHP031,ORD031,2026-03-16,C031,WH023,Road,TCI Express,Pune,Pune,25,3000,Delivered
+SHP032,ORD032,2026-03-18,C032,WH021,Road,VRL Logistics,Mumbai,Mumbai,20,3200,Delivered
+SHP033,ORD033,2026-03-20,C033,WH024,Road,Delhivery,Nashik,Nashik,30,2700,Pending
+SHP034,ORD034,2026-03-23,C034,WH023,Road,Blue Dart,Pune,Pune,10,3500,Delivered
+SHP035,ORD035,2026-03-25,C035,WH025,Road,TCI Express,Nagpur,Nagpur,15,2900,Delivered
+SHP036,ORD036,2026-03-27,C036,WH021,Road,VRL Logistics,Mumbai,Mumbai,5,2800,Delivered
+SHP037,ORD037,2026-03-30,C037,WH023,Air,Blue Dart,Pune,Pune,4,4800,Pending
+SHP038,ORD038,2026-04-02,C038,WH021,Road,Delhivery,Mumbai,Mumbai,6,3000,Delivered
+SHP039,ORD039,2026-04-04,C039,WH025,Road,TCI Express,Nagpur,Nagpur,7,2700,Delivered
+SHP040,ORD040,2026-04-06,C040,WH024,Road,VRL Logistics,Nashik,Nashik,5,2400,Delivered
+SHP041,ORD041,2026-04-09,C041,WH031,Road,Delhivery,Hyderabad,Hyderabad,4,2800,Delivered
+SHP042,ORD042,2026-04-11,C042,WH032,Road,TCI Express,Hyderabad,Hyderabad,5,2600,Pending
+SHP043,ORD043,2026-04-14,C043,WH031,Air,Blue Dart,Hyderabad,Hyderabad,3,4000,Delivered
+SHP044,ORD044,2026-04-16,C044,WH033,Road,VRL Logistics,Warangal,Warangal,20,2500,Delivered
+SHP045,ORD045,2026-04-18,C045,WH031,Road,Delhivery,Hyderabad,Hyderabad,30,2200,Delivered
+SHP046,ORD046,2026-04-21,C046,WH034,Road,TCI Express,Nizamabad,Nizamabad,25,2100,Pending
+SHP047,ORD047,2026-04-23,C047,WH031,Road,VRL Logistics,Hyderabad,Hyderabad,20,2300,Delivered
+SHP048,ORD048,2026-04-25,C048,WH035,Road,DTDC,Karimnagar,Karimnagar,50,2000,Delivered
+SHP049,ORD049,2026-04-28,C049,WH031,Road,Delhivery,Hyderabad,Hyderabad,30,2400,Delivered
+SHP050,ORD050,2026-04-30,C050,WH036,Road,TCI Express,Khammam,Khammam,40,2200,Pending
+SHP051,ORD051,2026-05-03,C051,WH037,Road,Blue Dart,Chennai,Chennai,25,3000,Delivered
+SHP052,ORD052,2026-05-05,C052,WH038,Road,VRL Logistics,Chennai,Chennai,15,2800,Delivered
+SHP053,ORD053,2026-05-07,C053,WH039,Road,TCI Express,Coimbatore,Coimbatore,10,2600,Delivered
+SHP054,ORD054,2026-05-09,C054,WH037,Road,Delhivery,Chennai,Chennai,15,2700,Pending
+SHP055,ORD055,2026-05-12,C055,WH040,Road,VRL Logistics,Madurai,Madurai,20,2500,Delivered
+SHP056,ORD056,2026-05-14,C056,WH041,Road,TCI Express,salem,salem,12,2300,Delivered
+SHP057,ORD057,2026-05-16,C057,WH037,Air,Blue Dart,Chennai,Chennai,25,4500,Delivered
+SHP058,ORD058,2026-05-19,C058,WH042,Road,DTDC,Tiruchirappalli,Tiruchirappalli,30,2600,Pending
+SHP059,ORD059,2026-05-21,C059,WH039,Road,Delhivery,Coimbatore,Coimbatore,35,2400,Delivered
+SHP060,ORD060,2026-05-23,C060,WH037,Road,VRL Logistics,Chennai,Chennai,40,2500,Delivered
+SHP061,ORD061,2026-05-26,C061,WH051,Road,TCI Express,Delhi,Delhi,50,3500,Delivered
+SHP062,ORD062,2026-05-28,C062,WH052,Road,Delhivery,Delhi,Delhi,40,3200,Pending
+SHP063,ORD063,2026-05-30,C063,WH051,Air,Blue Dart,Delhi,Delhi,100,5500,Delivered
+SHP064,ORD064,2026-06-02,C064,WH053,Road,VRL Logistics,Noida,Noida,80,3000,Delivered
+SHP065,ORD065,2026-06-04,C065,WH051,Road,TCI Express,Delhi,Delhi,10,2400,Delivered
+SHP066,ORD066,2026-06-06,C066,WH054,Road,Delhivery,Ghaziabad,Ghaziabad,100,2800,Pending
+SHP067,ORD067,2026-06-09,C067,WH051,Road,VRL Logistics,Delhi,Delhi,12,2600,Delivered
+SHP068,ORD068,2026-06-11,C068,WH053,Road,TCI Express,Noida,Noida,15,2900,Delivered
+SHP069,ORD069,2026-06-13,C069,WH055,Road,Delhivery,Lucknow,Lucknow,8,3200,Delivered
+SHP070,ORD070,2026-06-15,C070,WH051,Air,Blue Dart,Delhi,Delhi,5,4800,Pending
+SHP071,ORD071,2026-06-18,C071,WH062,Road,VRL Logistics,Ahmedabad,Ahmedabad,6,3000,Delivered
+SHP072,ORD072,2026-06-20,C072,WH063,Road,TCI Express,Surat,Surat,5,2700,Delivered
+SHP073,ORD073,2026-06-22,C073,WH062,Road,Delhivery,Ahmedabad,Ahmedabad,8,2900,Delivered
+SHP074,ORD074,2026-06-25,C074,WH064,Road,VRL Logistics,Vadodara,Vadodara,10,2500,Pending
+SHP075,ORD075,2026-06-27,C075,WH065,Road,TCI Express,Rajkot,Rajkot,15,2600,Delivered
+SHP076,ORD076,2026-06-29,C076,WH062,Air,Blue Dart,Ahmedabad,Ahmedabad,12,4200,Delivered
+SHP077,ORD077,2026-07-02,C077,WH063,Road,Delhivery,Surat,Surat,10,2700,Delivered
+SHP078,ORD078,2026-07-04,C078,WH064,Road,VRL Logistics,Vadodara,Vadodara,20,2500,Pending
+SHP079,ORD079,2026-07-06,C079,WH065,Road,TCI Express,Rajkot,Rajkot,8,2300,Delivered
+SHP080,ORD080,2026-07-09,C080,WH066,Road,Delhivery,Gandhinagar,Gandhinagar,6,2200,Delivered
+SHP081,ORD081,2026-07-11,C081,WH058,Road,VRL Logistics,Jaipur,Jaipur,3,3500,Delivered
+SHP082,ORD082,2026-07-13,C082,WH059,Road,TCI Express,Jodhpur,Jodhpur,2,3000,Pending
+SHP083,ORD083,2026-07-16,C083,WH058,Road,Delhivery,Jaipur,Jaipur,10,2800,Delivered
+SHP084,ORD084,2026-07-18,C084,WH059,Air,Blue Dart,Jodhpur,Jodhpur,4,5500,Delivered
+SHP085,ORD085,2026-07-20,C085,WH060,Road,VRL Logistics,Kota,Kota,8,2600,Delivered
+SHP086,ORD086,2026-07-22,C086,WH058,Road,TCI Express,Jaipur,Jaipur,10,2400,Pending
+SHP087,ORD087,2026-07-24,C087,WH061,Road,Delhivery,Udaipur,Udaipur,6,2800,Delivered
+SHP088,ORD088,2026-07-27,C088,WH067,Road,VRL Logistics,Kolkata,Kolkata,15,3200,Delivered
+SHP089,ORD089,2026-07-29,C089,WH069,Road,TCI Express,Durgapur,Durgapur,8,2700,Delivered
+SHP090,ORD090,2026-07-31,C090,WH067,Air,Blue Dart,Kolkata,Kolkata,5,4800,Pending
+SHP091,ORD091,2026-08-03,C091,WH045,Road,Delhivery,Kochi,Kochi,10,2500,Delivered
+SHP092,ORD092,2026-08-05,C092,WH046,Road,VRL Logistics,Kochi,Kochi,8,2300,Delivered
+SHP093,ORD093,2026-08-07,C093,WH047,Road,TCI Express,Thriruvananthapuram,Thriruvananthapuram,15,2900,Delivered
+SHP094,ORD094,2026-08-09,C094,WH048,Road,Delhivery,Kozhikode,Kozhikode,3,2600,Pending
+SHP095,ORD095,2026-08-11,C095,WH049,Road,VRL Logistics,Thrissur,Thrissur,5,2200,Delivered
+SHP096,ORD096,2026-08-13,C096,WH045,Air,Blue Dart,Kochi,Kochi,8,4000,Delivered
+SHP097,ORD097,2026-08-15,C097,WH045,Road,TCI Express,Kochi,Kochi,6,2500,Delivered
+SHP098,ORD098,2026-08-16,C098,WH048,Road,Delhivery,Kozhikode,Kozhikode,4,2300,Pending
+SHP099,ORD099,2026-08-17,C099,WH049,Road,VRL Logistics,Thrissur,Thrissur,10,2400,Delivered
+SHP100,ORD100,2026-08-18,C100,WH045,Road,TCI Express,Kochi,Kochi,20,2700,Delivered

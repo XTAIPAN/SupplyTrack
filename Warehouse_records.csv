@@ -1,0 +1,101 @@
+﻿Warehouse_ID,Warehouse_Name,City,State,Capacity_Units,Manager,Warehouse_Type
+WH001,Central Warehouse,Bengaluru,Karnataka,10000,Rajesh Kumar,Distribution
+WH002,North Warehouse,Bengaluru,Karnataka,8000,Amit Sharma,Distribution
+WH003,South Warehouse,Bengaluru,Karnataka,7500,Suresh B,Storage
+WH004,East Warehouse,Bengaluru,Karnataka,9000,Prakash M,Distribution
+WH005,West Warehouse,Bengaluru,Karnataka,8500,Naveen K,Storage
+WH006,Mysuru Main Warehouse,Mysuru,Karnataka,7000,Ramesh P,Distribution
+WH007,Mysuru Storage Hub,Mysuru,Karnataka,6000,Vinay R,Storage
+WH008,Hubballi Logistics Hub,Hubballi,Karnataka,9000,Mahesh S,Distribution
+WH009,Dharwad Warehouse,Dharwad,Karnataka,6500,Irfan K,Storage
+WH010,Belagavi Warehouse,Belagavi,Karnataka,8000,Sanjay P,Distribution
+WH011,Gadag Warehouse,Gadag,Karnataka,5000,Imran A,Storage
+WH012,Davanagere Hub,Davanagere,Karnataka,7500,Manjunath K,Distribution
+WH013,Ballari Warehouse,Ballari,Karnataka,7000,Raghav S,Storage
+WH014,Shivamogga Warehouse,Shivamogga,Karnataka,6500,Kiran M,Distribution
+WH015,Mangaluru Warehouse,Mangaluru,Karnataka,8500,Deepak R,Distribution
+WH016,Tumakuru Warehouse,Tumakuru,Karnataka,7000,Ganesh B,Storage
+WH017,Hassan Warehouse,Hassan,Karnataka,5500,Harish K,Storage
+WH018,Mandya Warehouse,Mandya,Karnataka,5000,Ravi S,Distribution
+WH019,Udupi Warehouse,Udupi,Karnataka,6000,Akshay P,Storage
+WH020,Raichur Warehouse,Raichur,Karnataka,6500,Vikas M,Distribution
+WH021,Mumbai Central Hub,Mumbai,Maharashtra,15000,Rohit Shah,Distribution
+WH022,Mumbai Storage Hub,Mumbai,Maharashtra,12000,Amit Patel,Storage
+WH023,Pune Logistics Hub,Pune,Maharashtra,14000,Rahul Joshi,Distribution
+WH024,Nashik Warehouse,Nashik,Maharashtra,9000,Nitin P,Storage
+WH025,Nagpur Distribution Hub,Nagpur,Maharashtra,12000,Akash M,Distribution
+WH026,Aurangabad Warehouse,Aurangabad,Maharashtra,8500,Sameer K,Storage
+WH027,Kolhapur Warehouse,Kolhapur,Maharashtra,7000,Pravin S,Distribution
+WH028,Solapur Warehouse,Solapur,Maharashtra,6500,Sunil P,Storage
+WH029,Thane Warehouse,Thane,Maharashtra,11000,Rajiv M,Distribution
+WH030,Navi Mumbai Hub,Navi Mumbai,Maharashtra,13000,Kunal Shah,Distribution
+WH031,Hyderabad Central Hub,Hyderabad,Telangana,15000,Rakesh R,Distribution
+WH032,Hyderabad Storage,Hyderabad,Telangana,11000,Naveen P,Storage
+WH033,Warangal Warehouse,Warangal,Telangana,8000,Srinivas K,Distribution
+WH034,Nizamabad Warehouse,Nizamabad,Telangana,6500,Mahesh R,Storage
+WH035,Karimnagar Hub,Karimnagar,Telangana,7000,Pradeep S,Distribution
+WH036,Khammam Warehouse,Khammam,Telangana,6000,Ravi K,Storage
+WH037,Chennai Central Hub,Chennai,Tamil Nadu,15000,Arjun M,Distribution
+WH038,Chennai Storage Hub,Chennai,Tamil Nadu,12000,Vijay S,Storage
+WH039,Coimbatore Warehouse,Coimbatore,Tamil Nadu,10000,Karthik R,Distribution
+WH040,Madurai Warehouse,Madurai,Tamil Nadu,8500,Bala K,Storage
+WH041,Salem Warehouse,Salem,Tamil Nadu,7000,Dinesh P,Distribution
+WH042,Tiruchirappalli Hub,Tiruchirappalli,Tamil Nadu,7500,Arun S,Storage
+WH043,Tiruppur Warehouse,Tiruppur,Tamil Nadu,6500,Siva M,Distribution
+WH044,Erode Warehouse,Erode,Tamil Nadu,6000,Prakash R,Storage
+WH045,Kochi Central Hub,Kochi,Kerala,12000,Ajith K,Distribution
+WH046,Kochi Storage Hub,Kochi,Kerala,9000,Rahul P,Storage
+WH047,Thiruvananthapuram Hub,Thiruvananthapuram,Kerala,10000,Manoj S,Distribution
+WH048,Kozhikode Warehouse,Kozhikode,Kerala,7500,Nikhil R,Storage
+WH049,Thrissur Warehouse,Thrissur,Kerala,7000,Sandeep K,Distribution
+WH050,Kollam Warehouse,Kollam,Kerala,6000,Anoop M,Storage
+WH051,Delhi Central Hub,New Delhi,Delhi,18000,Amit Verma,Distribution
+WH052,Delhi Storage Hub,New Delhi,Delhi,14000,Rohit K,Storage
+WH053,Noida Logistics Hub,Noida,Uttar Pradesh,16000,Manish S,Distribution
+WH054,Ghaziabad Warehouse,Ghaziabad,Uttar Pradesh,10000,Pankaj R,Storage
+WH055,Lucknow Warehouse,Lucknow,Uttar Pradesh,12000,Vivek M,Distribution
+WH056,Kanpur Warehouse,Kanpur,Uttar Pradesh,9000,Ashish K,Storage
+WH057,Agra Warehouse,Agra,Uttar Pradesh,7500,Mohit S,Distribution
+WH058,Jaipur Central Hub,Jaipur,Rajasthan,13000,Rajendra P,Distribution
+WH059,Jodhpur Warehouse,Jodhpur,Rajasthan,8000,Suresh K,Storage
+WH060,Kota Warehouse,Kota,Rajasthan,7000,Deepak M,Distribution
+WH061,Udaipur Warehouse,Udaipur,Rajasthan,6500,Manish P,Storage
+WH062,Ahmedabad Central Hub,Ahmedabad,Gujarat,15000,Harsh Shah,Distribution
+WH063,Surat Warehouse,Surat,Gujarat,13000,Jay Patel,Storage
+WH064,Vadodara Warehouse,Vadodara,Gujarat,10000,Raj P,Distribution
+WH065,Rajkot Warehouse,Rajkot,Gujarat,8500,Ketan S,Storage
+WH066,Gandhinagar Hub,Gandhinagar,Gujarat,7500,Dhruv M,Distribution
+WH067,Kolkata Central Hub,Kolkata,west Bengal,14000,Subhankar R,Distribution
+WH068,Kolkata Storage Hub,Kolkata,west Bengal,11000,Arindam S,Storage
+WH069,Durgapur Warehouse,Durgapur,west Bengal,7500,Suman K,Distribution
+WH070,Siliguri Warehouse,Siliguri,west Bengal,6500,Amit R,Storage
+WH071,Patna Central Hub,Patna,Bihar,12000,Raj Kumar,Distribution
+WH072,Gaya Warehouse,Gaya,Bihar,6000,Rakesh S,Storage
+WH073,Ranchi Warehouse,Ranchi,Jharkhand,9000,Deepak K,Distribution
+WH074,Jamshedpur Warehouse,Jamshedpur,Jharkhand,7500,Sanjay R,Storage
+WH075,Bhubaneswar Hub,Bhubaneswar,Odisha,10000,Ashok M,Distribution
+WH076,Cuttack Warehouse,Cuttack,Odisha,7000,Ranjit S,Storage
+WH077,Guwahati Central Hub,Guwahati,Assam,9000,Bikash R,Distribution
+WH078,Silchar Warehouse,Silchar,Assam,5500,Rahul K,Storage
+WH079,Bhopal Warehouse,Bhopal,Madhya Pradesh,10000,Amit S,Distribution
+WH080,Indore Central Hub,Indore,Madhya Pradesh,12000,Rohit M,Distribution
+WH081,Gwalior Warehouse,Gwalior,Madhya Pradesh,7000,Sandeep P,Storage
+WH082,Raipur Warehouse,Raipur,Chhattisgarh,9000,Manoj K,Distribution
+WH083,Bilaspur Warehouse,Bilaspur,Chhattisgarh,6000,Anil R,Storage
+WH084,Chandigarh Hub,Chandigarh,Chandigarh,10000,Vikram S,Distribution
+WH085,Ludhiana Warehouse,Ludhiana,Punjab,11000,Gurpreet K,Storage
+WH086,Amritsar Warehouse,Amritsar,Punjab,8000,Harpreet S,Distribution
+WH087,Dehradun Warehouse,Dehradun,Uttarakhand,7500,Rohit P,Storage
+WH088,Haridwar Hub,Haridwar,Uttarakhand,8500,Manoj S,Distribution
+WH089,Jammu Warehouse,Jammu,Jammu and Kashmir,6500,Imran K,Storage
+WH090,Srinagar Warehouse,Srinagar,Jammu and Kashmir,6000,Farooq A,Distribution
+WH091,Goa Central Warehouse,Panaji,Goa,7000,Rohan M,Distribution
+WH092,Vasco Warehouse,Vasco da Gama,Goa,5000,Sameer P,Storage
+WH093,Visakhapatnam Hub,Visakhapatnam,Andhra Pradesh,12000,Ravi K,Distribution
+WH094,Vijayawada Warehouse,Vijayawada,Andhra Pradesh,9000,Prasad M,Storage
+WH095,Nellore Warehouse,Nellore,Andhra Pradesh,6500,Kiran S,Distribution
+WH096,Tirupati Warehouse,Tirupati,Andhra Pradesh,7000,Naveen R,Storage
+WH097,Chandigarh Distribution Hub,Chandigarh,Chandigarh,9000,Aman P,Distribution
+WH098,Faridabad Warehouse,Faridabad,Haryana,11000,Deepak S,Storage
+WH099,Gurugram Logistics Hub,Gurugram,Haryana,15000,Rahul M,Distribution
+WH100,Panipat Warehouse,Panipat,Haryana,8000,Vikash K,Storage

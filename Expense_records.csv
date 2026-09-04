@@ -1,0 +1,101 @@
+﻿Expense_ID,Date,Expense_Category,Description,Department,Warehouse_ID,Payment_Mode,Amount,Status
+EXP001,2026-01-05,Transportation,Local Delivery Charges,Logistics,WH001,Bank Transfer,12500,Paid
+EXP002,2026-01-07,Electricity,Monthly Electricity Bill,Warehouse,WH002,Bank Transfer,18500,Paid
+EXP003,2026-01-09,Rent,Warehouse Rent,Warehouse,WH003,Bank Transfer,45000,Paid
+EXP004,2026-01-11,Packaging,Cartons and Packing Material,Operations,WH004,UPI,8200,Paid
+EXP005,2026-01-13,Maintenance,Equipment Maintenance,Warehouse,WH005,Cash,6500,Paid
+EXP006,2026-01-15,Fuel,Delivery Vehicle Fuel,Logistics,WH006,Card,9800,Paid
+EXP007,2026-01-18,Salary,Employee Salary Expense,HR,WH001,Bank Transfer,85000,Paid
+EXP008,2026-01-20,Office Supplies,Stationery,Administration,WH001,UPI,3200,Paid
+EXP009,2026-01-22,Internet,Internet Charges,IT,WH008,UPI,2800,Paid
+EXP010,2026-01-25,Insurance,Warehouse Insurance,Administration,WH010,Bank Transfer,15000,Paid
+EXP011,2026-01-28,Transportation,Freight Charges,Logistics,WH011,Bank Transfer,14500,Paid
+EXP012,2026-01-30,Electricity,Power Bill,Warehouse,WH012,Bank Transfer,12200,Paid
+EXP013,2026-02-02,Rent,Warehouse Rent,Warehouse,WH013,Bank Transfer,38000,Paid
+EXP014,2026-02-04,Packaging,Bubble Wrap and Tape,Operations,WH014,UPI,5600,Paid
+EXP015,2026-02-06,Maintenance,Forklift Maintenance,Warehouse,WH015,Bank Transfer,9200,Paid
+EXP016,2026-02-09,Fuel,Truck Fuel,Logistics,WH016,Card,11800,Paid
+EXP017,2026-02-11,Salary,Employee Salary Expense,HR,WH008,Bank Transfer,92000,Paid
+EXP018,2026-02-13,Office Supplies,Printer Paper,Administration,WH009,UPI,2400,Paid
+EXP019,2026-02-16,Internet,Broadband Charges,IT,WH010,UPI,3100,Paid
+EXP020,2026-02-18,Security,Security Services,Administration,WH011,Bank Transfer,11000,Paid
+EXP021,2026-02-21,Transportation,Courier Charges,Logistics,WH021,Bank Transfer,13500,Paid
+EXP022,2026-02-23,Electricity,Electricity Bill,Warehouse,WH022,Bank Transfer,21000,Paid
+EXP023,2026-02-25,Rent,Warehouse Rent,Warehouse,WH023,Bank Transfer,55000,Paid
+EXP024,2026-02-27,Packaging,Packing Material,Operations,WH024,UPI,9400,Paid
+EXP025,2026-03-02,Maintenance,Warehouse Repair,Warehouse,WH025,Cash,7800,Paid
+EXP026,2026-03-04,Fuel,Vehicle Fuel,Logistics,WH026,Card,10200,Paid
+EXP027,2026-03-06,Salary,Employee Salary,HR,WH021,Bank Transfer,98000,Paid
+EXP028,2026-03-09,Office Supplies,Stationery Purchase,Administration,WH023,UPI,3500,Paid
+EXP029,2026-03-11,Internet,Internet Charges,IT,WH024,UPI,2900,Paid
+EXP030,2026-03-13,Insurance,Vehicle Insurance,Logistics,WH025,Bank Transfer,17500,Paid
+EXP031,2026-03-16,Transportation,Intercity Freight,Logistics,WH031,Bank Transfer,18500,Paid
+EXP032,2026-03-18,Electricity,Electricity Bill,Warehouse,WH032,Bank Transfer,19500,Paid
+EXP033,2026-03-20,Rent,Warehouse Rent,Warehouse,WH033,Bank Transfer,42000,Paid
+EXP034,2026-03-23,Packaging,Labels and Cartons,Operations,WH034,UPI,6700,Paid
+EXP035,2026-03-25,Maintenance,Equipment Repair,Warehouse,WH035,Cash,8900,Paid
+EXP036,2026-03-27,Fuel,Delivery Vehicle Fuel,Logistics,WH036,Card,12500,Paid
+EXP037,2026-03-30,Salary,Employee Salary,HR,WH031,Bank Transfer,105000,Paid
+EXP038,2026-04-02,Office Supplies,Office Stationery,Administration,WH032,UPI,2800,Paid
+EXP039,2026-04-04,Internet,Internet Bill,IT,WH033,UPI,3200,Paid
+EXP040,2026-04-06,Security,Security Services,Administration,WH034,Bank Transfer,12500,Paid
+EXP041,2026-04-09,Transportation,Transport Charges,Logistics,WH037,Bank Transfer,16500,Paid
+EXP042,2026-04-11,Electricity,Power Charges,Warehouse,WH038,Bank Transfer,20500,Paid
+EXP043,2026-04-14,Rent,Warehouse Rent,Warehouse,WH039,Bank Transfer,48000,Paid
+EXP044,2026-04-16,Packaging,Packing Material,Operations,WH040,UPI,7200,Paid
+EXP045,2026-04-18,Maintenance,Machinery Repair,Warehouse,WH041,Cash,11200,Paid
+EXP046,2026-04-21,Fuel,Truck Fuel,Logistics,WH042,Card,10800,Paid
+EXP047,2026-04-23,Salary,Employee Salary,HR,WH037,Bank Transfer,97000,Paid
+EXP048,2026-04-25,Office Supplies,Stationery,Administration,WH039,UPI,4100,Paid
+EXP049,2026-04-28,Internet,Internet Charges,IT,WH040,UPI,3000,Paid
+EXP050,2026-04-30,Insurance,Equipment Insurance,Administration,WH041,Bank Transfer,16000,Paid
+EXP051,2026-05-03,Transportation,Delivery Charges,Logistics,WH045,Bank Transfer,14800,Paid
+EXP052,2026-05-05,Electricity,Electricity Bill,Warehouse,WH046,Bank Transfer,17500,Paid
+EXP053,2026-05-07,Rent,Warehouse Rent,Warehouse,WH047,Bank Transfer,46000,Paid
+EXP054,2026-05-09,Packaging,Packing Supplies,Operations,WH048,UPI,6100,Paid
+EXP055,2026-05-12,Maintenance,Cold Storage Repair,Warehouse,WH049,Cash,9500,Paid
+EXP056,2026-05-14,Fuel,Vehicle Fuel,Logistics,WH050,Card,11600,Paid
+EXP057,2026-05-16,Salary,Employee Salary,HR,WH045,Bank Transfer,90000,Paid
+EXP058,2026-05-19,Office Supplies,Printer Supplies,Administration,WH046,UPI,2900,Paid
+EXP059,2026-05-21,Internet,Internet Bill,IT,WH047,UPI,3400,Paid
+EXP060,2026-05-23,Security,Security Charges,Administration,WH048,Bank Transfer,10500,Paid
+EXP061,2026-05-26,Transportation,Freight Expense,Logistics,WH051,Bank Transfer,22500,Paid
+EXP062,2026-05-28,Electricity,Electricity Charges,Warehouse,WH052,Bank Transfer,23000,Paid
+EXP063,2026-05-30,Rent,Warehouse Rent,Warehouse,WH053,Bank Transfer,65000,Paid
+EXP064,2026-06-02,Packaging,Packaging Material,Operations,WH054,UPI,8800,Paid
+EXP065,2026-06-04,Maintenance,Equipment Maintenance,Warehouse,WH055,Cash,7600,Paid
+EXP066,2026-06-06,Fuel,Truck Fuel,Logistics,WH056,Card,13400,Paid
+EXP067,2026-06-09,Salary,Employee Salary,HR,WH051,Bank Transfer,110000,Paid
+EXP068,2026-06-11,Office Supplies,Stationery,Administration,WH052,UPI,3900,Paid
+EXP069,2026-06-13,Internet,Internet Charges,IT,WH053,UPI,3600,Paid
+EXP070,2026-06-15,Insurance,Warehouse Insurance,Administration,WH054,Bank Transfer,18500,Paid
+EXP071,2026-06-18,Transportation,Transport Expense,Logistics,WH058,Bank Transfer,17800,Paid
+EXP072,2026-06-20,Electricity,Electricity Bill,Warehouse,WH059,Bank Transfer,16000,Paid
+EXP073,2026-06-22,Rent,Warehouse Rent,Warehouse,WH060,Bank Transfer,40000,Paid
+EXP074,2026-06-25,Packaging,Packing Materials,Operations,WH061,UPI,5800,Paid
+EXP075,2026-06-27,Maintenance,Warehouse Maintenance,Warehouse,WH058,Cash,6800,Paid
+EXP076,2026-06-29,Fuel,Vehicle Fuel,Logistics,WH059,Card,9700,Paid
+EXP077,2026-07-02,Salary,Employee Salary,HR,WH058,Bank Transfer,88000,Paid
+EXP078,2026-07-04,Office Supplies,Office Supplies,Administration,WH060,UPI,3100,Paid
+EXP079,2026-07-06,Internet,Internet Bill,IT,WH061,UPI,2700,Paid
+EXP080,2026-07-09,Security,Security Services,Administration,WH058,Bank Transfer,9800,Paid
+EXP081,2026-07-11,Transportation,Delivery Expense,Logistics,WH067,Bank Transfer,19200,Paid
+EXP082,2026-07-13,Electricity,Electricity Bill,Warehouse,WH068,Bank Transfer,18500,Paid
+EXP083,2026-07-16,Rent,Warehouse Rent,Warehouse,WH069,Bank Transfer,43000,Paid
+EXP084,2026-07-18,Packaging,Packaging Supplies,Operations,WH070,UPI,6500,Paid
+EXP085,2026-07-20,Maintenance,Machinery Repair,Warehouse,WH067,Cash,8500,Paid
+EXP086,2026-07-22,Fuel,Delivery Fuel,Logistics,WH068,Card,10500,Paid
+EXP087,2026-07-24,Salary,Employee Salary,HR,WH067,Bank Transfer,93000,Paid
+EXP088,2026-07-27,Office Supplies,Stationery,Administration,WH069,UPI,3600,Paid
+EXP089,2026-07-29,Internet,Internet Charges,IT,WH070,UPI,2900,Paid
+EXP090,2026-07-31,Insurance,Vehicle Insurance,Logistics,WH067,Bank Transfer,14500,Paid
+EXP091,2026-08-03,Transportation,Delivery Charges,Logistics,WH045,Bank Transfer,15500,Paid
+EXP092,2026-08-05,Electricity,Electricity Bill,Warehouse,WH046,Bank Transfer,17200,Paid
+EXP093,2026-08-07,Rent,Warehouse Rent,Warehouse,WH047,Bank Transfer,45000,Paid
+EXP094,2026-08-09,Packaging,Packing Material,Operations,WH048,UPI,6200,Paid
+EXP095,2026-08-11,Maintenance,Warehouse Repair,Warehouse,WH049,Cash,7300,Paid
+EXP096,2026-08-13,Fuel,Truck Fuel,Logistics,WH050,Card,11200,Paid
+EXP097,2026-08-15,Salary,Employee Salary,HR,WH045,Bank Transfer,95000,Paid
+EXP098,2026-08-16,Office Supplies,Stationery Purchase,Administration,WH046,UPI,3300,Paid
+EXP099,2026-08-17,Internet,Internet Charges,IT,WH047,UPI,3100,Paid
+EXP100,2026-08-18,Security,Security Services,Administration,WH048,Bank Transfer,10800,Paid

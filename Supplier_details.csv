@@ -1,0 +1,101 @@
+﻿Supplier_ID,Supplier_Name,City,Category
+SUP001,TechSource India,Bengaluru,Electronics
+SUP002,Digital World,Mumbai,Electronics
+SUP003,Prime Electronics,Delhi,Electronics
+SUP004,SmartTech Solutions,Hyderabad,Electronics
+SUP005,Future Electronics,Chennai,Electronics
+SUP006,Galaxy Computers,Pune,Electronics
+SUP007,NextGen Technologies,Bengaluru,Electronics
+SUP008,Reliable Systems,Hyderabad,Electronics
+SUP009,Metro Electronics,Mumbai,Electronics
+SUP010,Universal Tech,Delhi,Electronics
+SUP011,Computer Hub India,Bengaluru,Computers
+SUP012,IT World Solutions,Chennai,Computers
+SUP013,Computer Point,Pune,Computers
+SUP014,Silicon Systems,Hyderabad,Computers
+SUP015,Digital India Systems,Delhi,Computers
+SUP016,Laptop Zone,Mumbai,Computers
+SUP017,PC Solutions India,Bengaluru,Computers
+SUP018,CoreTech Systems,Pune,Computers
+SUP019,Pro Computer Services,Chennai,Computers
+SUP020,Elite IT Solutions,Hyderabad,Computers
+SUP021,Accessory Hub,Delhi,Accessories
+SUP022,Smart Accessories,Mumbai,Accessories
+SUP023,Mobile Accessories India,Bengaluru,Accessories
+SUP024,Tech Accessories World,Pune,Accessories
+SUP025,Digital Accessories,Chennai,Accessories
+SUP026,Gadget World,Hyderabad,Accessories
+SUP027,Mobile Mart Suppliers,Delhi,Accessories
+SUP028,Universal Accessories,Mumbai,Accessories
+SUP029,Gadget Point,Bengaluru,Accessories
+SUP030,Prime Gadget Supply,Pune,Accessories
+SUP031,Network Point,Bengaluru,Networking
+SUP032,Network Solutions India,Hyderabad,Networking
+SUP033,NetTech Systems,Mumbai,Networking
+SUP034,Digital Networks,Chennai,Networking
+SUP035,Secure Network Solutions,Delhi,Networking
+SUP036,Network World,Pune,Networking
+SUP037,ConnectTech India,Bengaluru,Networking
+SUP038,Internet Solutions,Hyderabad,Networking
+SUP039,Smart Network Systems,Mumbai,Networking
+SUP040,Network Mart,Chennai,Networking
+SUP041,OfficeTech Solutions,Bengaluru,Office Equipment
+SUP042,Office Equipment India,Delhi,Office Equipment
+SUP043,Business Machines Ltd,Mumbai,Office Equipment
+SUP044,Office Solutions Hub,Pune,Office Equipment
+SUP045,Corporate Equipment,Hyderabad,Office Equipment
+SUP046,Modern Office Systems,Chennai,Office Equipment
+SUP047,Office Mart India,Bengaluru,Office Equipment
+SUP048,Professional Office Supply,Delhi,Office Equipment
+SUP049,Office World,Mumbai,Office Equipment
+SUP050,Prime Office Solutions,Pune,Office Equipment
+SUP051,FurniPro India,Bengaluru,Furniture
+SUP052,Office Furniture World,Pune,Furniture
+SUP053,Modern Furinture Suppliers,Mumbai,Furniture
+SUP054,Comfort Office Furniture,Delhi,Furniture
+SUP055,Elite Furniture India,Hyderabad,Furniture
+SUP056,Smart Office Furniture,Chennai,Furniture
+SUP057,Corporate Furniture Hub,Bengaluru,Furniture
+SUP058,Furniture Point,Pune,Furniture
+SUP059,Royal Office Furniture,Mumbai,Furniture
+SUP060,Workspace Furinture India,Delhi,Furniture
+SUP061,PackRight India,Bengaluru,Packaging
+SUP062,SafePack Solutions,Hyderabad,Packaging
+SUP063,Quality Packaging Ltd,Mumbai,Packaging
+SUP064,Prime Packaging,Chennai,Packaging
+SUP065,PackPro India,Pune,Packaging
+SUP066,Secure Packaging Solutions,Delhi,Packaging
+SUP067,EcoPack Industries,Bengaluru,Packaging
+SUP068,Smart packaging Hub,Hyderabad,Packaging
+SUP069,Universal Packaging,Mumbai,Packaging
+SUP070,Packaging World,Chennai,Packaging
+SUP071,Warehouse Solutions India,Bengaluru,Warehouse
+SUP072,Storage Systems Ltd,Pune,Warehouse
+SUP073,Industrial Storage Solutions,Mumbai,Warehouse
+SUP074,Smart Warehouse Equipment,Hyderabad,Warehouse
+SUP075,Warehouse Mart,Delhi,Warehouse
+SUP076,Storage Rack India,Chennai,Warehouse
+SUP077,Industrial Rack Solutions,Bengaluru,Warehouse
+SUP078,Warehouse World,Pune,Warehouse
+SUP079,StoragePro India,Mumbai,Warehouse
+SUP080,Prime Warehouse Systems,Hyderabad,Warehouse
+SUP081,Material  Handling India,Bengaluru,Material Handling
+SUP082,LiftTech Solutions,Pune,Material Handling
+SUP083,Industrial Handling Equipments,Mumbai,Material Handling
+SUP084,Forklift India,Chennai,Material Handling
+SUP085,Handling Solutions Ltd,Delhi,Material Handling
+SUP086,Logistics Equipment India,Bengaluru,Material Handling
+SUP087,Warehouse Handling Systems,Hyderabad,Material Handling
+SUP088,Trolley Solutions,Mumbai,Material Handling
+SUP089,Industrial Equipment Hub,Pune,Material Handling
+SUP090,Materials Movers India,Chennai,Material Handling
+SUP091,SafeGuard Supplies,Bengaluru,Safety
+SUP092,Safety Equipment India,Delhi,Safety
+SUP093,Industrial Safety Solutions,Mumbai,Safety
+SUP094,SafeWork India,Hyderabad,Safety
+SUP095,Safety First Suppliers,Pune,Safety
+SUP096,ProtectPro India,Chennai,Safety
+SUP097,Industrial Safety Hub,Bengaluru,Safety
+SUP098,SecureWork Solutions,Delhi,Safety
+SUP099,SafetyWorld India,Mumbai,Safety
+SUP100,Prime Safety Equipment,Hyderabad,Safety

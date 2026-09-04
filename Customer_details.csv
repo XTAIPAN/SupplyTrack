@@ -1,0 +1,101 @@
+﻿Customer_ID,Customer_Name,City,State,Customer_Type
+C001,ABC Retail,Bengaluru,Karnatak,Retail
+C002,XYZ Traders,Mysuru,Karnatak,Wholesale
+C003,Bright Solutions,Dharwad,Karnatak,Corporate
+C004,Metro Stores,Hubballi,Karnatak,Retail
+C005,Prime Distributors,Belagavi,Karnatak,Distributor
+C006,Smart Mart,Gadag,Karnatak,Retail
+C007,Global Office,Pune,Maharashtra,Corporate
+C008,City Electronics,Hyderabad,Telangana,Retail
+C009,Star Traders,Chennai,Tamil Nadu,Wholesale
+C010,Royal Distributors,Mumbai,Maharashtra,Distributor
+C011,Karnataka Tech Hub,Bengaluru,Karnatak,Corporate
+C012,Digital Mart,Mysuru,Karnatak,Retail
+C013,Green Valley Stores,Shivamogga,Karnatak,Retail
+C014,South India Traders,Mangaluru,Karnatak,Wholesale
+C015,Future Solutions,Bengaluru,Karnatak,Corporate
+C016,City Wholesale Mart,Hubballi,Karnatak,Wholesale
+C017,Elite Distributors,Belagavi,Karnatak,Distributor
+C018,Smart Choice Retail,Dharwad,Karnatak,Retail
+C019,NextGen Systems,Bengaluru,Karnatak,Corporate
+C020,Modern Electronics,Mysuru,Karnatak,Retail
+C021,Karnataka Wholesale Hub,Bengaluru,Karnatak,Wholesale
+C022,Prime Tech Store,Tumakuru,Karnatak,Retail
+C023,Galaxy Traders,Davanagere,Karnatak,Wholesale
+C024,Universal Distributors,Ballari,Karnatak,Distributor
+C025,Tech World India,Bengaluru,Karnatak,Corporate
+C026,City Mart,Gadag,Karnatak,Retail
+C027,Reliable Traders,Haveri,Karnatak,Wholesale
+C028,Digital Point,Hubballi,Karnatak,Retail
+C029,Business Tech Solutions,Bengaluru,Karnatak,Corporate
+C030,Metro Distributors,Mysuru,Karnatak,Distributor
+C031,Maharashtra Tech Store,Pune,Maharashtra,Retail
+C032,Mumbai Electronics Hub,Mumbai,Maharashtra,Wholesale
+C033,Western India Traders,Nashik,Maharashtra,Wholesale
+C034,Prime Office Solutions,Pune,Maharashtra,Corporate
+C035,Smart Electronics,Nagpur,Maharashtra,Retail
+C036,Maharashtra Distributors,Mumbai,Maharashtra,Distributor
+C037,Digital World Pune,Pune,Maharashtra,Retail
+C038,TechZone Mumbai,Mumbai,Maharashtra,Corporate
+C039,Metro Wholesale,Nagpur,Maharashtra,Wholesale
+C040,Elite Tech Distributors,Nashik,Maharashtra,Distributor
+C041,Telangana Tech Store,Hyderabad,Telangana,Retail
+C042,Hyderabad Traders,Hyderabad,Telangana,Wholesale
+C043,Smart Office Hyderabad,Hyderabad,Telangana,Corporate
+C044,Digital Distributors,Warangal,Telangana,Distributor
+C045,City Electronics Hyderabad,Hyderabad,Telangana,Retail
+C046,Telangana Wholesale Hub,Warangal,Telangana,Wholesale
+C047,Prime Solutions Hyderabad,Hyderabad,Telangana,Corporate
+C048,Tech Mart Telangana,Nizamabad,Telangana,Retail
+C049,Metro Distributors Hyderabad,Hyderabad,Telangana,Distributor
+C050,Future Tech Telangana,Karimnagar,Telangana,Corporate
+C051,Chennai Electronics,Chennai,Tamil Nadu,Retail
+C052,Tamil Nadu Traders,Chennai,Tamil Nadu,Wholesale
+C053,South Tech Solutions,Coimbatore,Tamil Nadu,Corporate
+C054,Prime Distributors Chennai,Chennai,Tamil Nadu,Distributor
+C055,Smart Mart Tamil Nadu,Madurai,Tamil Nadu,Retail
+C056,Digital Wholesale,salem,Tamil Nadu,Wholesale
+C057,Office Tech Chennai,Chennai,Tamil Nadu,Corporate
+C058,City Distributors,Tiruchirappalli,Tamil Nadu,Distributor
+C059,Tamil Tech Store,Coimbatore,Tamil Nadu,Retail
+C060,Metro Electronics TN,Chennai,Tamil Nadu,Retail
+C061,Delhi Tech Store,New Delhi,Delhi,Retail
+C062,Delhi Wholesale Hub,New Delhi,Delhi,Wholesale
+C063,Capital Office Solutions,New Delhi,Delhi,Corporate
+C064,Prime Distributors Delhi,New Delhi,Delhi,Distributor
+C065,Digital Mart Delhi,New Delhi,Delhi,Retail
+C066,North India Traders,New Delhi,Delhi,Wholesale
+C067,Smart Business Solutions,New Delhi,Delhi,Corporate
+C068,Metro Tech Delhi,New Delhi,Delhi,Retail
+C069,Delhi Electronics Hub,New Delhi,Delhi,Wholesale
+C070,Elite Distributors Delhi,New Delhi,Delhi,Distributor
+C071,Gujarat Electronics,Ahmedabad,Gujarat,Retail
+C072,Gujarat Traders,Surat,Gujarat,Wholesale
+C073,Prime Tech Ahmedabad,Ahmedabad,Gujarat,Corporate
+C074,Gujarat Distributors,Vadodara,Gujarat,Distributor
+C075,Smart Mart Gujarat,Rajkot,Gujarat,Retail
+C076,Western Tech Solutions,Ahmedabad,Gujarat,Corporate
+C077,Digital Wholesale Gujarat,Surat,Gujarat,Wholesale
+C078,Metro Electronics Gujarat,Vadodara,Gujarat,Retail
+C079,Prime Distributors Gujarat,Rajkot,Gujarat,Distributor
+C080,Gujarat Office Solutions,Ahmedabad,Gujarat,Corporate
+C081,Rajasthan Tech Store,Jaipur,Rajasthan,Retail
+C082,Jaipur Wholesale Hub,Jaipur,Rajasthan,Wholesale
+C083,Rajasthan Business Solutions,Jaipur,Rajasthan,Corporate
+C084,Prime Distributors Rajasthan,Jodhpur,Rajasthan,Distributor
+C085,Smart Electronics Jaipur,Jaipur,Rajasthan,Retail
+C086,North Traders,Kota,Rajasthan,Wholesale
+C087,Digital Solutions Rajasthan,Udaipur,Rajasthan,Corporate
+C088,Metro Electronics Jaipur,Jaipur,Rajasthan,Retail
+C089,Royal Distributors,Jodhpur,Rajasthan,Distributor
+C090,Rajasthan Tech Hub,Kota,Rajasthan,Corporate
+C091,Kerala Tech Store,Kochi,Kerala,Retail
+C092,Kerala Wholesale Hub,Kochi,Kerala,Wholesale
+C093,South Business Solutions,Thriruvananthapuram,Kerala,Corporate
+C094,Prime Distributors Kerala,Kozhikode,Kerala,Distributor
+C095,Smart Electronics Kerala,Kochi,Kerala,Retail
+C096,Digital Traders Kerala,Thrissur,Kerala,Wholesale
+C097,Office Solutions Kerala,Kochi,Kerala,Corporate
+C098,Metro Distributors Kerala,Kozhikode,Kerala,Distributor
+C099,Kerala Digital Mart,Thrissur,Kerala,Retail
+C100,South India Tech Hub,Kochi,Kerala,Corporate
